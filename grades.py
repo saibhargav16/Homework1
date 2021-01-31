@@ -12,6 +12,7 @@ def grade(mark):
 
 
 while(True):
+    print('welcome');
     cal = int(input('Enter the value:'))
     if cal == 0:
         break
