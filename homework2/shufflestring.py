@@ -20,7 +20,7 @@ for k in l:
     t3 = t3 + q[k]
 for c in b:
     t4 = t4 + a[c]
-print(t1)                       #print them all
+print(t1)                       #print them allcd
 print(t2)
 print(t3)
 print(t4)
